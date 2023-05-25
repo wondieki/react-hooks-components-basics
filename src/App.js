@@ -5,6 +5,7 @@ import Comment from "./Comment";
 function App() {
   return (
     <div>
+      {/*the 2 child components are displayed here*/}
       <Article />
       <Comment />
     </div>
